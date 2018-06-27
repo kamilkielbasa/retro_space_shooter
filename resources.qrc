@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>png/Background/starBackground.png</file>
+        <file>png/player.png</file>
+        <file>png/laserGreen.png</file>
+        <file>png/enemyShip.png</file>
+        <file>png/meteorSmall.png</file>
+        <file>png/laserGreenShot.png</file>
+        <file>png/shield.png</file>
+        <file>png/heart.png</file>
+        <file>png/laserRed.png</file>
+        <file>png/laserRedShot.png</file>
+        <file>png/bonus.png</file>
+        <file>png/enemyUFO.png</file>
+        <file>png/playerDamaged.png</file>
+        <file>png/meteorBig.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sounds/laser_shot1.mp3</file>
+        <file>sounds/background.mp3</file>
+        <file>sounds/explosion.mp3</file>
+    </qresource>
+    <qresource prefix="/life_bar">
+        <file>png/life_bar/life_bar_10.png</file>
+        <file>png/life_bar/life_bar_9.png</file>
+        <file>png/life_bar/life_bar_8.png</file>
+        <file>png/life_bar/life_bar_7.png</file>
+        <file>png/life_bar/life_bar_6.png</file>
+        <file>png/life_bar/life_bar_5.png</file>
+        <file>png/life_bar/life_bar_4.png</file>
+        <file>png/life_bar/life_bar_3.png</file>
+        <file>png/life_bar/life_bar_2.png</file>
+        <file>png/life_bar/life_bar_1.png</file>
+        <file>png/life_bar/life_bar_0.png</file>
+        <file>png/life_bar/life_bar_hit.png</file>
+        <file>png/life_bar/life_bar_00.png</file>
+    </qresource>
+</RCC>
